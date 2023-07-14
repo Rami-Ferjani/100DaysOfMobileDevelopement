@@ -11,3 +11,8 @@ In this repository, I will share my journey of learning Mobile developement usin
 * Learned how to create a flutter app
 * Learned about the folder in a flutter project
 
+## Day 2
+*Learned the type of parameters
+* Learned how to nest widgets
+* learned how to style a widget by changing it's background color and how to center it
+
